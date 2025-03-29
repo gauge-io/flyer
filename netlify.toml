@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/"
+  to = "https://gauge-io.webflow.io/landing-pages/talks"
+  status = 200
