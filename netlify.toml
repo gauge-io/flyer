@@ -1,4 +1,4 @@
 [[redirects]]
-  from = "/"
+  from = "/*"
   to = "https://drive.google.com/file/d/1nwBzw1bqtEXAfgiWAxLcKFqlw-QB2Ji_/view?usp=sharing"
   status = 200
