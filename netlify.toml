@@ -1,4 +1,4 @@
 [[redirects]]
-  from = "/*"
-  to = "https://docs.google.com/document/d/19KdC0ZpIr1TRN1DIJZJqC-DplnOgoSRooGtzfBn8Nto/edit?tab=t.0"
+  from = "*"
+  to = "https://docs.google.com/document/d/19KdC0ZpIr1TRN1DIJZJqC-DplnOgoSRooGtzfBn8Nto/"
   status = 200
